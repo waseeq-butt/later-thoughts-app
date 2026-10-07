@@ -1,0 +1,6 @@
+node_modules
+dist
+.vercel
+*.tsbuildinfo
+dev-dist
+.DS_Store
